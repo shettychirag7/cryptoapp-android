@@ -1,4 +1,4 @@
-package com.chiragshetty.cryptocurrencyapp.ui.theme
+package com.chiragshetty.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

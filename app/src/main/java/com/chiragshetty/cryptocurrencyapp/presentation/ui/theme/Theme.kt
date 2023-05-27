@@ -1,4 +1,4 @@
-package com.chiragshetty.cryptocurrencyapp.ui.theme
+package com.chiragshetty.cryptocurrencyapp.presentation.ui.theme
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
